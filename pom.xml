@@ -11,6 +11,7 @@
 
     <modules>
         <module>fundamental-echo</module>
+        <module>fundamental-discard</module>
     </modules>
 
     <dependencies>
