@@ -10,4 +10,6 @@
 ## 文本协议
 1. [Telnet](./text-telnet) - 一个基本的基于字符行的应用。
 2. [Quote](./text-udp-quote) - 一个基于UDP协议的广播应用。
+3. [SecureChat](./text-securechat) - 一个基于TLS的聊天服务器。
+
 

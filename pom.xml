@@ -15,6 +15,7 @@
         <module>fundamental-uptime</module>
         <module>text-telnet</module>
         <module>text-udp-quote</module>
+        <module>text-securechat</module>
     </modules>
 
     <dependencies>
