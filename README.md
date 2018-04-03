@@ -7,3 +7,5 @@
 2. [Discard](./fundamental-discard) - client 会持续发消息到 server， server 会丢弃所有的消息。学习 ChannelFutureListener 的使用。
 3. [Uptime](./fundamental-uptime) - 实现了 client 的自动重连。
 
+## 文本协议
+1. [Telnet](./text-telnet) - 一个基本的基于字符行的应用。

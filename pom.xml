@@ -13,6 +13,7 @@
         <module>fundamental-echo</module>
         <module>fundamental-discard</module>
         <module>fundamental-uptime</module>
+        <module>text-telnet</module>
     </modules>
 
     <dependencies>
