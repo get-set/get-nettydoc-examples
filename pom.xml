@@ -12,6 +12,7 @@
     <modules>
         <module>fundamental-echo</module>
         <module>fundamental-discard</module>
+        <module>fundamental-uptime</module>
     </modules>
 
     <dependencies>
