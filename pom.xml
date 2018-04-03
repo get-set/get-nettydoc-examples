@@ -17,6 +17,7 @@
         <module>text-udp-quote</module>
         <module>text-securechat</module>
         <module>binary-echo</module>
+        <module>binary-factorial</module>
     </modules>
 
     <dependencies>

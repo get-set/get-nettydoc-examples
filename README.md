@@ -14,4 +14,4 @@
 
 ## 二进制协议
 1. [ObjectEcho](./binary-echo) - 一个传输序列化对象的 Echo server。
-
+2. [Factorial](./binary-factorial) - 一对有状态的 server 和 client， 另外自定义了传输 BigInteger 对象的编解码器。
