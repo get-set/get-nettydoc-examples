@@ -16,6 +16,7 @@
         <module>text-telnet</module>
         <module>text-udp-quote</module>
         <module>text-securechat</module>
+        <module>binary-echo</module>
     </modules>
 
     <dependencies>
