@@ -15,9 +15,6 @@ import io.netty.handler.ssl.SslContext;
 import io.netty.handler.ssl.SslContextBuilder;
 import io.netty.handler.ssl.util.SelfSignedCertificate;
 
-/**
- * 原样返回来自客户端的信息
- */
 public class SnoopServer {
 
     private final static boolean SSL = true;
@@ -56,7 +53,7 @@ public class SnoopServer {
                         }
                     });
 
-            // 启动EchoServer
+            // 启动 server
             b.bind(PORT).sync().channel().closeFuture().sync();
         } finally {
             // 停掉 EventLoopGroup 的所有线程
