@@ -18,6 +18,7 @@
         <module>text-securechat</module>
         <module>binary-echo</module>
         <module>binary-factorial</module>
+        <module>http-snoop</module>
     </modules>
 
     <dependencies>

@@ -15,3 +15,7 @@
 ## 二进制协议
 1. [ObjectEcho](./binary-echo) - 一个传输序列化对象的 Echo server。
 2. [Factorial](./binary-factorial) - 一对有状态的 server 和 client， 另外自定义了传输 BigInteger 对象的编解码器。
+3. [WorldClock](http://netty.io/4.1/xref/io/netty/example/worldclock/package-summary.html) - 内容有点多，暂时略。
+
+## Http协议
+1. [Snoop](./http-snoop) - 一个HTTP server 和 client 的例子，server 返回的响应内容为收到的请求的信息。
