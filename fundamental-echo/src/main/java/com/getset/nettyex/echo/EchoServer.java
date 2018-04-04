@@ -52,7 +52,7 @@ public class EchoServer {
                         }
                     });
 
-            // 启动EchoServer
+            // 启动 server
             ChannelFuture future = serverBootstrap.bind(PORT).sync();
             // 等待server socket 关闭
             future.channel().closeFuture().sync();
