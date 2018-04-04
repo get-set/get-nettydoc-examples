@@ -20,3 +20,4 @@
 ## Http协议
 1. [Snoop](./http-snoop) - 一个HTTP server 和 client 的例子，server 返回的响应内容为收到的请求的信息。
 2. [FileServer](./http-fileserver) - 一个文件服务器的例子，一部大文件传输。
+3. [WebSocket](./websocket) - 一个 WebSocket 服务端和一个 WebSocket 客户端的例子，服务端的例子可以使用浏览器获取 demo 页面。

@@ -20,6 +20,7 @@
         <module>binary-factorial</module>
         <module>http-snoop</module>
         <module>http-fileserver</module>
+        <module>websocket</module>
     </modules>
 
     <dependencies>
